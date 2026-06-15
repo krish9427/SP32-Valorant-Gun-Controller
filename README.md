@@ -1,4 +1,4 @@
-# ESP32 Valorant Gun Controller 🔫
+# ESP32 Valorant Gun Controller 
 
 A DIY, ultra-low latency hardware aim controller for Valorant (and other FPS games). It uses an ESP32 and an MPU6050 gyroscope to act as a hardware-level Bluetooth mouse, bypassing software anti-cheat restrictions like Vanguard.
 
